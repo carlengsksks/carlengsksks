@@ -1,7 +1,6 @@
+![A Mechatronics Engineering student](https://pbs.twimg.com/profile_banners/1673976382735654915/1706435363/1500x500)
 <h1 align="center">Hi 👋, I'm Carlyn Grace Bool</h1>
 <h3 align="center">A Mechatronics Engineering student</h3>
-
-![A Mechatronics Engineering student](https://pbs.twimg.com/profile_banners/1673976382735654915/1706435363/1500x500)
 
 - 🌱 I’m currently learning **Robotics**
 
