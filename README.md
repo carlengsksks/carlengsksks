@@ -10,7 +10,6 @@
 
 Skills: <h3 align="left">Languages and Tools:</h3> <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-![link](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamRzYXR3bXJtZG11bTIyNHlzbzBzYmlreTF4NWhkZG1sdXJyNWV5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGd2OXXHe4tFhb7Wh/giphy.gif)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21cvswu5qaxggycjpv3yi5b4q&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
