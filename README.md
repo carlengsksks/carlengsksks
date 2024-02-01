@@ -12,7 +12,7 @@ Skills: <h3 align="left">Languages and Tools:</h3> <p align="left"> <a href="htt
 
 ![link](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamRzYXR3bXJtZG11bTIyNHlzbzBzYmlreTF4NWhkZG1sdXJyNWV5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGd2OXXHe4tFhb7Wh/giphy.gif)
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=21cvswu5qaxggycjpv3yi5b4q&unique={true|1|on|yes})
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21cvswu5qaxggycjpv3yi5b4q&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/carlengsksks)  
 
