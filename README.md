@@ -10,16 +10,11 @@
 
 Skills: <h3 align="left">Languages and Tools:</h3> <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21cvswu5qaxggycjpv3yi5b4q&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/carlengsksks)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=carlengsksks)](https://github.com/ryo-ma/github-profile-trophy)
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=carlengsksks)  
-
-
+![GitHub streak stats](https://streak-stats.demolab.com/?user=carlengsksks&theme=calm_pink&show_icons=true)  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlengsksks&theme=calm_pink&show_icons=true)
 
