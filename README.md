@@ -1,6 +1,5 @@
 ![A Mechatronics Engineering student](https://pbs.twimg.com/profile_banners/1673976382735654915/1706435363/1500x500)
 
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=500&color=F7EC41&multiline=true&random=false&width=800&height=150&lines=HI%2C+I'M+CARLYN+GRACE;A+MECHATRONICS+ENGINEERING+STUDENT;WHAT'S+YOUR+IKIGAI%3F)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning **Robotics**
